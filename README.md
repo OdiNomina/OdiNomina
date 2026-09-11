@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hallo, ich bin Silke
 
-<!--
-**OdiNomina/OdiNomina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Fachinformatikerin für Anwendungsentwicklung**
 
-Here are some ideas to get you started:
+Ich interessiere mich für Softwareentwicklung und beschäftige mich
+aktuell schwerpunktmäßig mit Java.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Aktuelle Lern- und Interessensgebiete
+
+- Java SE 21
+- Objektorientierte Programmierung
+- Java Language Features und APIs
+- Java-Modulsystem
+- Git / GitHub
+- Softwarearchitektur
+- AI-assisted Software Development
+- Agentic Coding
+- KI-Agenten
+- Context Engineering
+
+Im Bereich AI-assisted Software Development stehe ich noch am Anfang und möchte mich zunächst mit 
+den grundlegenden Konzepten und dem praktischen Einsatz von Coding Agents auseinandersetzen.
+Dabei interessiert mich insbesondere, wie sich KI sinnvoll in den Softwareentwicklungsprozess integrieren lässt.
+
+## Praktische Erfahrung
+
+Im Rahmen meiner Ausbildung und meines Praktikums konnte ich praktische
+Erfahrungen mit C#, REST-APIs, SQL Server und Microsoft Azure sammeln.
+
+Dieses Profil enthält persönliche Lern- und Übungsprojekte.
