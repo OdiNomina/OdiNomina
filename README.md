@@ -1,9 +1,8 @@
-# Hallo, ich bin Silke
+# Hallo, ich bin Silke 👋
 
 **Fachinformatikerin für Anwendungsentwicklung**
 
-Ich interessiere mich für Softwareentwicklung und beschäftige mich
-aktuell schwerpunktmäßig mit Java.
+Mein aktueller Schwerpunkt liegt auf der Softwareentwicklung mit Java.
 
 ## Aktuelle Lern- und Interessensgebiete
 
@@ -13,18 +12,19 @@ aktuell schwerpunktmäßig mit Java.
 - Java-Modulsystem
 - Git / GitHub
 - Softwarearchitektur
-- AI-assisted Software Development
-- Agentic Coding
-- KI-Agenten
-- Context Engineering
-
-Im Bereich AI-assisted Software Development stehe ich noch am Anfang und möchte mich zunächst mit 
-den grundlegenden Konzepten und dem praktischen Einsatz von Coding Agents auseinandersetzen.
-Dabei interessiert mich insbesondere, wie sich KI sinnvoll in den Softwareentwicklungsprozess integrieren lässt.
+- AI at Work: Grundlagen und praktische Einsatzmöglichkeiten von Agents und Workflows
 
 ## Praktische Erfahrung
 
-Im Rahmen meiner Ausbildung und meines Praktikums konnte ich praktische
-Erfahrungen mit C#, REST-APIs, SQL Server und Microsoft Azure sammeln.
+Im Zusammenhang mit meinem IHK-Abschlussprojekt habe ich einen ETL-Prozess zwischen einer REST-API und einer Microsoft-SQL-Server-Datenbank konzipiert.
+Auf Grundlage dieses Konzepts habe ich die Lösung anschließend weiterentwickelt und implementiert.
+Dabei habe ich:
+- mich in eine bestehende Lösung mit einer Microsoft-SQL-Server-Datenbank, einer REST-API und Azure Data Factory eingearbeitet
+- Azure Functions in C# zum Abruf und zur Verarbeitung von Telematikdaten im JSON-Format über eine REST-API entwickelt
+- Azure-Data-Factory-Pipelines zur Verarbeitung und Übertragung der Daten angepasst
+- eine Testdatenbank in Docker eingerichtet
+- die REST-Schnittstelle und Datenverarbeitung manuell mit Postman getestet
 
-Dieses Profil enthält persönliche Lern- und Übungsprojekte.
+##
+
+Die Repositories in diesem Profil sind überwiegend persönliche Lern- und Übungsprojekte.
