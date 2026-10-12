@@ -12,7 +12,9 @@ Mein aktueller Schwerpunkt liegt auf der Softwareentwicklung mit Java.
 - Java-Modulsystem
 - Git / GitHub
 - Softwarearchitektur
-- AI at Work: Grundlagen und praktische Einsatzmöglichkeiten von Agents und Workflows
+- OpenAI Academy:  
+  AI at Work: Grundlagen und praktische Einsatzmöglichkeiten von Agents und Workflows  
+  Get Started with Codex: Codex für klar definierte Entwicklungsaufgaben einsetzen.
 
 ## Praktische Erfahrung
 
